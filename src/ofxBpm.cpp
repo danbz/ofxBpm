@@ -26,7 +26,9 @@ void ofxBpm::start(){
     _isPlaying = true;
     reset();
     
-    startThread(true, false);   // blocking, verbose
+    // startThread(true, false);   // blocking, verbose
+    startThread();   // blocking, verbose
+
     
 }
 
