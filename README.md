@@ -15,5 +15,6 @@ This addon uses ofThread. You could not call draw function on listener.
 
 
 Tested on 
-Max OSX 10.8.4
-openFrameworks 0.80
+Max OSX 10.14.6
+openFrameworks 0.11.0
+
